@@ -4,6 +4,7 @@
 *.db
 *.sqlite3
 .DS_Store
+*.swp
 geckodriver.log
 
 
@@ -22,3 +23,4 @@ parts/
 sdist/
 var/
 .vsconde/
+venv/
