@@ -4,7 +4,12 @@ Feito por amantes de futebolarte :soccer: :green_heart:, sistema para atualizaç
 usando como exemplo o https://raw.githubusercontent.com/lsv/fifa-worldcup-2018/master/data.json# para API 
 https://github.com/lsv/fifa-worldcup-2018 :octocat:
 
-https://sportv.globo.com/site/programas/copa-2018/noticia/confira-as-listas-dos-convocados-para-a-copa-do-mundo-2018.ghtml TODO: Cadastro de Convocados para Copa do Mundo . :confused: 
+https://sportv.globo.com/site/programas/copa-2018/noticia/confira-as-listas-dos-convocados-para-a-copa-do-mundo-2018.ghtml   
+
+TODO:  
+ + Cadastro de Convocados para Copa do Mundo . :heavy_check_mark:   api/scrap.py 
+ + Cadastro de usuarios 
+
 
 
  ⚽　  🍺
